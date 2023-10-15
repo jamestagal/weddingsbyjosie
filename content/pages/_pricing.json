@@ -1,0 +1,52 @@
+{
+    "components": [
+        {
+            "name": "page_title",
+            "fields": {
+                "title": "Pricing",
+                "subtitle": "Pricing"
+            }
+        },
+        {
+            "name": "pricing",
+            "fields": {
+                "teachers": {
+                    "title": "TEACHERS",
+                    "amount": "60"
+                },
+                "courses": {
+                    "title": "COURSES",
+                    "amount": "50"
+                },
+                "students": {
+                    "title": "STUDENTS",
+                    "amount": "1000"
+                },
+                "satisfied": {
+                    "title": "SATISFIED CLIENTS",
+                    "amount": "1400"
+                }
+            }
+        },
+        {
+            "name": "stories",
+            "fields": {
+                "title": "Success Stories",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat. ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+                "video": {
+                    "url": "https://www.youtube.com/watch?v=ResipmZmpDU"
+                },
+                "image": {
+                    "url": "media/success-story.jpeg",
+                    "altText": "Success story"
+                }
+            }
+        },
+        {
+            "name": "teacher_feature",
+            "fields": {
+                "title": "Some of our teachers"
+            }
+        }
+    ]
+}

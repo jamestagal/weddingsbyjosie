@@ -1,0 +1,11 @@
+{
+	"build": "public",
+	"routes": {
+		"pages": ":filename",
+		"service": "service"
+	},
+	"baseurl": "/weddingsbyjosie/",
+	"local": {
+		"port": 3000
+	}
+}
