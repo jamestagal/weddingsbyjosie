@@ -7,7 +7,7 @@
   import ServiceStep6 from "../components/service_step6.svelte";
   import SerivceHeader from "../components/service_header.svelte";
   export let step1, step2, step3, step4, step5, step6;
-  /*   selectedService = initialService;
+  /*   selectService = initialService;
   let initialService = "step1"; */
   let selectedStep;
 </script>
@@ -20,56 +20,50 @@
       <div class="col-lg-4 widget-area sidebar-right">
         <aside class="widget widget-nav-menu">
           <ul class="widget-menu">
-            <li>
+            <li class={selectedStep === "step1" ? " active" : ""}>
               <a
                 on:click={() => (selectedStep = "step1")}
                 href="service"
-                class="active{selectedStep === 'step1' ? ' active' : ''}"
                 data-filter="step1"
                 >{step1}
               </a>
             </li>
-            <li>
+            <li class={selectedStep === "step2" ? " active" : ""}>
               <a
                 on:click={() => (selectedStep = "step2")}
                 href="service"
-                class="active{selectedStep === 'step2' ? ' active' : ''}"
                 data-filter="step2"
                 >{step2}
               </a>
             </li>
-            <li>
+            <li class={selectedStep === "step3" ? " active" : ""}>
               <a
                 on:click={() => (selectedStep = "step3")}
                 href="service"
-                class="active{selectedStep === 'step3' ? ' active' : ''}"
                 data-filter="step3"
                 >{step3}
               </a>
             </li>
-            <li>
+            <li class={selectedStep === "step4" ? " active" : ""}>
               <a
                 on:click={() => (selectedStep = "step4")}
                 href="service"
-                class="active{selectedStep === 'step4' ? ' active' : ''}"
                 data-filter="step4"
                 >{step4}
               </a>
             </li>
-            <li>
+            <li class={selectedStep === "step5" ? " active" : ""}>
               <a
                 on:click={() => (selectedStep = "step5")}
                 href="service"
-                class="active{selectedStep === 'step5' ? ' active' : ''}"
                 data-filter="step5"
                 >{step5}
               </a>
             </li>
-            <li>
+            <li class={selectedStep === "step6" ? " active" : ""}>
               <a
                 on:click={() => (selectedStep = "step6")}
                 href="service"
-                class="active{selectedStep === 'step6' ? ' active' : ''}"
                 data-filter="step6"
                 >{step6}
               </a>
