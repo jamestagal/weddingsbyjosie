@@ -31,6 +31,12 @@
             </div>
           </div>
         </div>
+        <div class="mt-10 btn-center">
+          <a
+            class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
+            href="service">Read about my service</a
+          >
+        </div>
       </div>
       <div class="col-lg-6 col-sm-12">
         <div class="mt-0 res-991-mt-60">
@@ -65,4 +71,16 @@
     </div>
   </div>
 </section>
+
 <!--about-section end-->
+
+<style>
+  .btn-center {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 45%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+</style>
