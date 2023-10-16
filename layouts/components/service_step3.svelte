@@ -45,7 +45,7 @@
             </div>
             <div class="featured-content">
               <div class="featured-title">
-                <h5>Notice of Intended Marriage (NOIM)</h5>
+                <h5>Notice of Intended Marriage</h5>
               </div>
               <div class="featured-desc">
                 <p class="highlight">
