@@ -7,8 +7,7 @@
   import ServiceStep6 from "../components/service_step6.svelte";
   import SerivceHeader from "../components/service_header.svelte";
   export let step1, step2, step3, step4, step5, step6;
-  /*   selectService = initialService;
-  let initialService = "step1"; */
+
   let selectedStep = "step1";
 </script>
 

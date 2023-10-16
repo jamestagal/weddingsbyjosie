@@ -1,6 +1,5 @@
 <script>
   export let title;
-  export let selectService;
 </script>
 
 <!--header start-->
@@ -40,7 +39,7 @@
               <li><a href=".">Home</a></li>
               <li><a href="about-me">About me</a></li>
               <li>
-                <a on:click={() => selectService} href="service">Service</a>
+                <a href="service">Service</a>
               </li>
               <li><a href="pricing">Pricing</a></li>
               <li><a href=".">Contact Us</a></li>
