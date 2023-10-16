@@ -76,7 +76,7 @@
           <div class="mt-20">
             <a
               class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
-              href="about-us.html">Read More</a
+              href="about-me">Read More</a
             >
           </div>
         </div>
