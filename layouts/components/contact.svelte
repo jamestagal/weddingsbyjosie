@@ -38,7 +38,7 @@
                       <h5>Location</h5>
                     </div>
                     <div class="featured-desc">
-                      <p>Mission Street<br />Amaroo, ACT</p>
+                      <p>Gungahlin area, ACT</p>
                     </div>
                   </div>
                 </div>

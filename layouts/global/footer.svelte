@@ -21,7 +21,7 @@
                       <h5>Our Address</h5>
                     </div>
                     <div class="featured-desc">
-                      <p>Mission Street, Amaroo ACT</p>
+                      <p>Gungahlin area, ACT</p>
                     </div>
                   </div>
                 </div>
