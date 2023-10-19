@@ -12,8 +12,8 @@
                 <!-- section title -->
                 <div class="section-title without-seperator">
                   <div class="title-header">
-                    <h5>Wedding Services</h5>
-                    <h2 class="title">It’s Your Turn</h2>
+                    <h5>Contact Me</h5>
+                    <h2 class="title">It's Your Turn!</h2>
                   </div>
                 </div>
                 <!-- section title end -->

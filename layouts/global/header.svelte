@@ -42,7 +42,7 @@
                 <a href="service">Service</a>
               </li>
               <li><a href="pricing">Pricing</a></li>
-              <li><a href="contact-us">Contact Us</a></li>
+              <li><a href="contact-me">Contact Me</a></li>
             </ul>
           </nav>
           <div
