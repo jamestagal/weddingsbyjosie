@@ -39,7 +39,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/03.jpg"
+                    src="media/testimonial/03.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -75,7 +75,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/04.jpg"
+                    src="media/testimonial/04.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -110,7 +110,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/01.jpg"
+                    src="media/testimonial/03.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -143,7 +143,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/02.jpg"
+                    src="media/testimonial/04.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -178,7 +178,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/03.jpg"
+                    src="media/testimonial/04.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -214,7 +214,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/04.jpg"
+                    src="media/testimonial/03.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -249,7 +249,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/01.jpg"
+                    src="media/testimonial/03.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -282,7 +282,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/02.jpg"
+                    src="media/testimonial/03.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -315,7 +315,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/03.jpg"
+                    src="media/testimonial/04.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
@@ -348,7 +348,7 @@
                 <div class="testimonial-img">
                   <img
                     class="img-center"
-                    src="http://www.themetechmount.in/html/wedco/images/testimonial/04.jpg"
+                    src="media/testimonial/03.jpeg"
                     alt="testimonial-img"
                   />
                 </div>
