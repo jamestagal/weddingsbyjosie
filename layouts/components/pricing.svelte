@@ -21,7 +21,7 @@
           <div class="section-title">
             <div class="title-header">
               <h5>Our Pricing</h5>
-              <h2 class="title">An Unforgettable day!</h2>
+              <h2 class="title">An Unforgettable day for $800</h2>
             </div>
             <div class="title-desc">
               <p>
