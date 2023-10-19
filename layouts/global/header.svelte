@@ -1,9 +1,13 @@
 <script>
   export let title;
+  let navActive;
+  const toggleMenu = () => {
+    navActive = !navActive;
+  };
 </script>
 
 <!--header start-->
-<header id="masthead" class="header ttm-header-style-01">
+<header id="masthead" class="header ttm-header-style-01" data-header="">
   <div id="site-header-menu" class="site-header-menu ttm-bgcolor-darkgrey">
     <div class="site-header-menu-inner ttm-stickable-header">
       <div class="container">
@@ -28,21 +32,40 @@
             <h4 class="title">Weddings by Josie</h4>
           </div>
           <!-- site-branding end -->
-          <div class="btn-show-menu-mobile menubar menubar--squeeze">
+          <!-- svelte-ignore a11y-click-events-have-key-events -->
+          <div
+            class="btn-show-menu-mobile menubar menubar--squeeze{navActive
+              ? ' active'
+              : ''}"
+            on:click={toggleMenu}
+          >
             <span class="menubar-box">
               <span class="menubar-inner" />
             </span>
           </div>
           <!-- menu -->
-          <nav class="main-menu menu-mobile ml-auto" id="menu">
+          <!-- svelte-ignore a11y-click-events-have-key-events -->
+          <nav
+            class="main-menu menu-mobile ml-auto{navActive ? ' show' : ''}"
+            on:click={toggleMenu}
+            id="menu"
+          >
             <ul class="menu">
-              <li><a href=".">Home</a></li>
-              <li><a href="about-me">About me</a></li>
+              <li>
+                <a href=".">Home</a>
+              </li>
+              <li>
+                <a href="about-me">About me</a>
+              </li>
               <li>
                 <a href="service">Service</a>
               </li>
-              <li><a href="pricing">Pricing</a></li>
-              <li><a href="contact-me">Contact Me</a></li>
+              <li>
+                <a href="pricing">Pricing</a>
+              </li>
+              <li>
+                <a href="contact-me">Contact Me</a>
+              </li>
             </ul>
           </nav>
           <div
