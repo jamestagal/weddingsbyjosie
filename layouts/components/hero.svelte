@@ -29,4 +29,26 @@
     font-size: 80px;
     font-weight: 900;
   }
+  @media only screen and (max-width: 991px) {
+    .hero {
+      background-image: url("../media/Logo-removebg-preview-247x300.png"),
+        url("./media/wreathBGremoved.png"),
+        url("../media/galina-n-white-rose.jpeg");
+      background-position: center center, 55% center, center center;
+      background-repeat: no-repeat, no-repeat, no-repeat;
+      background-size: 50%, 60%, cover;
+      position: relative, relative, relative;
+      padding-top: 300px;
+      padding-bottom: 300px;
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .inner-container {
+      text-align: center;
+      position: absolute;
+      width: 100%;
+      height: auto;
+      margin-top: 140px;
+    }
+  }
 </style>
