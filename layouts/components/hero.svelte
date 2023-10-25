@@ -26,7 +26,7 @@
   }
 
   .title {
-    font-size: 80px;
+    font-size: 85px;
     font-weight: 900;
   }
   @media only screen and (max-width: 991px) {
@@ -48,7 +48,19 @@
       position: absolute;
       width: 100%;
       height: auto;
-      margin-top: 140px;
+      margin-top: 110px;
     }
   }
+
+ /*  @media only screen and (max-width: 991px) {
+    .title {
+    font-size: 85px;
+    font-weight: 900;
+  }
+  }
+  @media only screen and (max-width: 991px) {
+    h1 {
+      line-height: 65px;
+  }
+  } */
 </style>
