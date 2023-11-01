@@ -19,17 +19,7 @@
   <title>{title}</title>
   <base href={env.baseurl} />
   <script type="module" src="spa/core/main.js"></script>
-  <!-- Javascript -->
 
-  <!-- Javascript -->
-  <!-- Javascript -->
-  <!-- Javascript -->
-  <!-- Javascript -->
-  <!-- Javascript -->
-  <!-- Javascript -->
-  <!-- Javascript -->
-  <!-- Javascript -->
-  <!-- Javascript -->
   <script src="js/jquery.min.js"></script>
   <script src="js/tether.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
@@ -37,6 +27,7 @@
   <script src="js/jquery-waypoints.js"></script>
   <script src="js/jquery-validate.js"></script>
   <script src="js/jquery.prettyPhoto.js"></script>
+  <script src="js/slick.js"></script>
   <script src="js/slick.min.js"></script>
   <script src="js/numinate.min.js"></script>
   <script src="js/imagesloaded.min.js"></script>
