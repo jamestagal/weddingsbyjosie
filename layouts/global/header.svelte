@@ -58,7 +58,7 @@
                 <a href="about-me">About me</a>
               </li>
               <li>
-                <a href="service">Service</a>
+                <a href="service">Services</a>
               </li>
               <li>
                 <a href="pricing">Pricing</a>
