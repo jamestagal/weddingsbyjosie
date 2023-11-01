@@ -20,8 +20,8 @@
           <!--section title-->
           <div class="section-title">
             <div class="title-header">
-              <h5>Our Pricing</h5>
-              <h2 class="title">An Unforgettable day for $800</h2>
+              <h5>Premium Wedding Service - $800</h5>
+              <h2 class="title">Wedding With The Works!</h2>
             </div>
             <div class="title-desc">
               <p>
