@@ -12,6 +12,27 @@
 </script>
 
 <SerivceHeader />
+<section class="ttm-row gallery-section clearfix">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 res-991-pr-15 res-991-pl-15">
+        <!-- section-title -->
+        <div class="section-title style2">
+          <div class="title-header">
+            <h5>Premium Wedding Service</h5>
+            <h2 class="title">Wedding with the Works!</h2>
+          </div>
+          <div class="title-desc">
+            <p>
+              This is my premium and fully personalised ceremony. It is an "all access" service with as many points of communication as needed. It includes a rehearsal at the venue and a comprehensive resource folder for you to keep with ideas and examples for all parts of the ceremony. See below for the full list of inclusions.
+            </p>
+          </div>
+        </div>
+        <!--section-title end-->
+      </div>
+    </div>
+  </div>
+</section>
 <div class="ttm-row sidebar ttm-sidebar-right clearfix">
   <div class="container">
     <!--row-->
@@ -90,3 +111,30 @@
     <!-- row end -->
   </div>
 </div>
+
+<style>
+  .ttm-row.gallery-section {
+    padding: 60px 0 0;
+  }
+  @media (min-width: 992px) {
+    .sidebar .content-area,
+    .sidebar .widget-area {
+      padding-top: 30px;
+      padding-bottom: 80px;
+    }
+  }
+  @media (max-width: 991px) {
+    .sidebar .sidebar-right {
+      order: 0;
+      width: 100%;
+      margin-bottom: 25px;
+    }
+  }
+  @media (max-width: 991px) {
+    .sidebar .content-area,
+    .sidebar .widget-area {
+      padding-bottom: 0;
+      padding-top: 25px;
+    }
+  }
+</style>
