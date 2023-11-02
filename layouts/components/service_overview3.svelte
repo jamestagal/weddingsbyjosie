@@ -7,7 +7,7 @@
         <!--section title-->
         <div class="section-title title-style-center_text without-seperator">
           <div class="title-header">
-            <h5>Our Wedding Service</h5>
+            <h5>Our Premium Wedding Service</h5>
             <h2 class="title">We Provide The Best Service</h2>
           </div>
           <div class="title-desc">
