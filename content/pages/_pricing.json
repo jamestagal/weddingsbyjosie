@@ -8,7 +8,7 @@
             }
         },
         {
-            "name": "pricing",
+            "name": "premium_price",
             "fields": {
                 "teachers": {
                     "title": "TEACHERS",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "name": "stories",
+            "name": "alternate_price",
             "fields": {
                 "title": "Success Stories",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat. ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
@@ -40,12 +40,6 @@
                     "url": "media/success-story.jpeg",
                     "altText": "Success story"
                 }
-            }
-        },
-        {
-            "name": "teacher_feature",
-            "fields": {
-                "title": "Some of our teachers"
             }
         }
     ]
