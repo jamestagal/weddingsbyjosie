@@ -346,8 +346,7 @@
   background-size: cover !important;
 }
 .col-bg-img-two.ttm-col-bgimage-yes > .ttm-col-wrapper-bg-layer {
-  background-image: url(https://via.placeholder.com/1045x509?text=1045x509+col-bgimage-2.jpg);
-  background-position: center center;
+  background-image: url("../media/IntimateWedding.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }
