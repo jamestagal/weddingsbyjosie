@@ -10,7 +10,7 @@
         <div class="section-title title-style-center_text">
           <div class="title-header">
             <h5>Wedding Gallery</h5>
-            <h2 class="title">Our Captured Moments</h2>
+            <h2 class="title">Captured Moments</h2>
           </div>
         </div>
         <!--section-title end-->
