@@ -16,8 +16,7 @@
               <p>
                 It will be my pleasure to help you bring to reality your dreams
                 for a beautiful ceremony. This can be as short, as long, as
-                quirky, as different, as formal/informal as you want it to be. I
-                marry you on your terms!
+                quirky, as different, as formal/informal as you want it to be.
               </p>
             </div>
           </div>
@@ -42,7 +41,7 @@
                   <div class="featured-desc">
                     <p>
                       I am both a qualified and experienced celebrant in the
-                      Canberra region.
+                      Canberra & NSW.
                     </p>
                   </div>
                 </div>
@@ -76,7 +75,7 @@
           <div class="mt-20">
             <a
               class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
-              href="about-me">Read More</a
+              href="about-me">About Me</a
             >
           </div>
         </div>
