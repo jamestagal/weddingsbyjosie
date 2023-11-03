@@ -34,7 +34,7 @@
         <div class="mt-10 btn-center">
           <a
             class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
-            href="service">Read about my service</a
+            href="service">My Services</a
           >
         </div>
       </div>

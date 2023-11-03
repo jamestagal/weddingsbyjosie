@@ -72,7 +72,7 @@
                 <h5>electronic Equipment</h5>
               </div>
               <div class="featured-desc">
-                <p>I’ll set up the PA and other requirements.</p>
+                <p>I’ll set up the PA, a signing table and other requirements if needed.</p>
               </div>
             </div>
           </div>
@@ -90,7 +90,7 @@
             </div>
             <div class="featured-content">
               <div class="featured-title">
-                <h5>Attire</h5>
+                <h5>Dress</h5>
               </div>
               <div class="featured-desc">
                 <p>I’ll be dressed to compliment the bridal party.</p>

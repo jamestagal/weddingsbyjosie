@@ -28,9 +28,7 @@
       <div class="col-lg-7 col-md-7 col-sm-12">
         <h4>3. Meet Up</h4>
         <p>
-          We meet up to disucss the details of your ceremony. We need to
-          complete the legals at a minimum of 1 month before your wedding. The
-          following is what is covered at this meeting:
+          We meet up to commence the legal paperwork and disucss your vision for your ceremony. A deposit is required to lock in the date. The following is what is covered at this meeting:
         </p>
         <div class="mt-25">
           <div
@@ -54,7 +52,7 @@
                   ceremony.<span
                     ><i
                       >I need to sight evidence of Identification e.g
-                      passport/driver’s licence/birth certificate
+                      passport/driver’s licence/birth certificate.
                     </i></span
                   >
                 </p>
@@ -80,7 +78,7 @@
               <div class="featured-desc">
                 <p>
                   Discuss your ceremony and your vision…colour/theme so that I
-                  can compliment the bridal party
+                  can compliment the bridal party.
                 </p>
               </div>
             </div>
@@ -112,12 +110,16 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  I will provide you a booklet that shows you the legal words
-                  that must be included in the ceremony and ideas for music,
-                  rituals, poems and a questionnaire to help with your personal
-                  story (optional). Also a brochure “Happily Ever After” which
-                  I’m required by law to give you.
+                  I will provide you with a booklet:
                 </p>
+                <ul>
+                  <li>a sample script inlcuding the legal words</li>
+                  <li>the brochure “Happily Ever After”</li>
+                  <li>examples of music, rituals and poems</li>
+                  <li>examples of how to include family and children</li>
+                  <li>a questionnaire to help with your personal story (optional)</li>
+                  <li>a timeline of the steps from now to the day</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -139,10 +141,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  I’ll write the script and we meet as many times as you like to
-                  create the perfect ceremony for you. This will also serve to
-                  build our relationship and take care of all the details to
-                  ensure that the ceremony is amazing.
+                  I’ll write the script, we communciate via email and meet as many times as you like to create the perfect ceremony for you. This process builds our rapport and ensures the ceremony is both personal and amazing. This is a live document until the day before the ceremony.
                 </p>
               </div>
             </div>

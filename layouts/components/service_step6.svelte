@@ -28,8 +28,7 @@
       <div class="col-lg-7 col-md-7 col-sm-12">
         <h4>6. After The Ceremony</h4>
         <p>
-          I'll lodge the paperwork to make your wedding legal & let you know
-          when the marriage is officially registered.
+          I'll lodge the paperwork in the state or territory in which the ceremony was conducted to make your wedding legal.
         </p>
         <div class="mt-30">
           <div
@@ -72,7 +71,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  I'll inform you when the marriage has been registered and send
+                  I'll contact you when the marriage has been registered and send
                   you the link so that you can apply for the official document.
                 </p>
               </div>

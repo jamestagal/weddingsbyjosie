@@ -49,8 +49,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  Having a rehearsal to work out all the parts is an important
-                  step in this process and I certainly take it seriously.
+                  By having a rehearsal at the location helps everyone to understand their role and keeps everyone calm on the day. I work through the steps until everyone is confident with the ceremonys.
                 </p>
               </div>
             </div>
@@ -73,10 +72,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  Coordinating with other professionals to make the day go off
-                  without a hitch is both important and essential. I have an
-                  attention to detail and I'm well versed at working with other
-                  people in professional contexts.
+                  Coordinating with other professionals to make the ceremony run smoothly.
                 </p>
               </div>
             </div>

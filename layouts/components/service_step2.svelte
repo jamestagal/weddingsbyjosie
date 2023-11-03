@@ -28,7 +28,7 @@
       <div class="col-lg-7 col-md-7 col-sm-12">
         <h4>2. Book an appointment</h4>
         <p>
-          Once you’ve made your decision, we have a meeting at a time/location
+          Once you’ve made your decision, you book a "meetup" at a time/location
           convenient to you. I can be contacted via email or by mobile. I am
           flexible and can come to you or vice versa.
         </p>
