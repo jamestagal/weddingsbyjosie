@@ -7,7 +7,6 @@
   import ServiceStep6 from "../components/service_step6.svelte";
   import SerivceHeader from "../components/service_header.svelte";
   import AlternateService from "../components/alternate_service.svelte";
-  import AlternateService2 from "../components/alternate_service2.svelte";
   export let step1, step2, step3, step4, step5, step6;
 
   let selectedStep = "step1";
@@ -21,12 +20,12 @@
         <!-- section-title -->
         <div class="section-title style2">
           <div class="title-header">
-            <h5>Premium Wedding Service</h5>
+            <h5>Wedding Service</h5>
             <h2 class="title">Wedding with the Works!</h2>
           </div>
           <div class="title-desc">
             <p>
-              This is my premium and fully personalised ceremony. It is an "all access" service with as many points of communication as needed. It includes a rehearsal at the venue and a comprehensive resource folder for you to keep with ideas and examples for all parts of the ceremony. See below for the full list of inclusions.
+              This is my fully personalised ceremony. It is an "all access" service with as many points of communication as needed. It includes a rehearsal at the venue and a comprehensive resource folder for you to keep with ideas and examples for all parts of the ceremony. See below for the full list of inclusions.
             </p>
           </div>
         </div>
@@ -92,6 +91,7 @@
             </li>
           </ul>
         </aside>
+        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark" href="pricing">See Pricing</a>
       </div>
       <div class="col-lg-8 content-area">
         {#if "step1" === selectedStep}
@@ -113,7 +113,7 @@
     <!-- row end -->
   </div>
 </div>
-<AlternateService2 />
+<AlternateService />
 <style>
   .ttm-row.gallery-section {
     padding: 60px 0 0;
