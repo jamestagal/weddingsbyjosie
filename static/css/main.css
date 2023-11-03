@@ -2825,7 +2825,7 @@ ul.footer-nav-menu li:not(:last-child):after {
 /* Page-Title-Row
 /*---------------------------------------------------------------*/
 .ttm-page-title-row {
-  background: url("../media/pagetitle-bg.jpeg");
+  background: url("../media/galina-n-white-roseBanner.webp");
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -2836,7 +2836,7 @@ ul.footer-nav-menu li:not(:last-child):after {
   width: 100%;
   padding: 170px 0 100px;
   text-align: center;
-  background-color: rgb(25 25 25 / 0.79);
+  background-color: rgb(25 25 25 / 0.60);
 }
 .page-title-heading h2 {
   font-weight: 700;
