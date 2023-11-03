@@ -2527,7 +2527,7 @@ nav.main-menu ul.menu ul.mega-submenu li:hover > a:before {
 
 /** FirstFooter **/
 .first-footer {
-  padding: 55px 0 35px;
+  padding: 55px 0 25px;
 }
 .footer-logo {
   margin-bottom: 35px;
@@ -2627,8 +2627,8 @@ nav.main-menu ul.menu ul.mega-submenu li:hover > a:before {
 
 /** SecondFooter **/
 .second-footer {
-  border-top: 1px solid #e3e3e3;
-  border-bottom: 1px solid #e3e3e3;
+  /* border-top: 1px solid #e3e3e3;
+  border-bottom: 1px solid #e3e3e3; */
   padding: 0;
 }
 .widget ul {

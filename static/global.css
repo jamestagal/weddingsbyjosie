@@ -2745,7 +2745,7 @@ ul.ttm-our-location-list li i {
 /** Footer-nav-menu **/
 .copyright {
   text-align: center;
-  padding-top: 23px;
+  /* padding-top: 23px; */
   padding-bottom: 23px;
 }
 .copyright a {
