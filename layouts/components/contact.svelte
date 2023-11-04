@@ -88,100 +88,14 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-7 col-md-7 col-sm-12">
-            <div class="border pt-35 pr-30 pb-40 pl-30">
-              <h5>Do You Have Any Questions?</h5>
-              <form
-                id="contactform"
-                class="contactform wrap-form pt-5 clearfix"
-                method="post"
-                novalidate="novalidate"
-                action="#"
-              >
-                <div class="row">
-                  <div class="col-md-6">
-                    <label>
-                      <span class="text-input"
-                        ><input
-                          name="name"
-                          type="text"
-                          value=""
-                          placeholder="Your Name*"
-                          required="required"
-                        /></span
-                      >
-                    </label>
-                  </div>
-                  <div class="col-md-6">
-                    <label>
-                      <span class="text-input"
-                        ><input
-                          name="address"
-                          type="text"
-                          value=""
-                          placeholder="Your Email*"
-                          required="required"
-                        /></span
-                      >
-                    </label>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-6">
-                    <label>
-                      <span class="text-input"
-                        ><input
-                          name="phone"
-                          type="text"
-                          value=""
-                          placeholder="Phone"
-                          required="required"
-                        /></span
-                      >
-                    </label>
-                  </div>
-                  <div class="col-md-6">
-                    <label>
-                      <span class="text-input"
-                        ><input
-                          name="phone"
-                          type="text"
-                          value=""
-                          placeholder="your-event"
-                          required="required"
-                        /></span
-                      >
-                    </label>
-                  </div>
-                </div>
-                <label>
-                  <span class="text-input"
-                    ><input
-                      name="phone"
-                      type="text"
-                      value=""
-                      placeholder="Subject"
-                      required="required"
-                    /></span
-                  >
-                </label>
-                <label>
-                  <span class="text-input"
-                    ><textarea
-                      name="message"
-                      rows="4"
-                      placeholder="Your Messages"
-                      required="required"
-                    /></span
-                  >
-                </label>
-                <button
-                  class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor w-100"
-                  type="submit">Send A Message!</button
-                >
-              </form>
+          <div class="col-lg-6">
+            <div class="d-inline-block border p-3">
+               <!--ttm_single_image-wrapper-->
+                <div class="ttm_single_image-wrapper">
+                    <img class="img-fluid" src="media/service/wedding_service04.webp" title="single-img-three" alt="single-img-three">
+                </div><!--ttm_single_image-wrapper end-->
             </div>
-          </div>
+        </div>
         </div>
         <!-- row end -->
       </div>
