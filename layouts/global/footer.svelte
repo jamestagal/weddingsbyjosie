@@ -78,30 +78,20 @@
                   <a
                     class="tooltip-top"
                     target="_blank"
-                    href="."
+                    href="https://www.facebook.com/p/Weddings-By-Josie-100064046983818/"
                     data-tooltip="Facebook"
                   >
                     <i class="fa fa-facebook" aria-hidden="true" />
                   </a>
                 </li>
-                <li class="social-twitter">
+                <li class="social-instagram">
                   <a
                     class="tooltip-top"
                     target="_blank"
-                    href="."
-                    data-tooltip="Twitter"
+                    href="https://www.instagram.com/weddingsbyjosiecbr/"
+                    data-tooltip="Instagram"
                   >
-                    <i class="fa fa-twitter" aria-hidden="true" />
-                  </a>
-                </li>
-                <li class="social-flickr">
-                  <a
-                    class=" tooltip-top"
-                    target="_blank"
-                    href="."
-                    data-tooltip="Flickr"
-                  >
-                    <i class="fa fa-flickr" aria-hidden="true" />
+                    <i class="fa fa-instagram" aria-hidden="true" />
                   </a>
                 </li>
                 <li class="social-linkedin">
