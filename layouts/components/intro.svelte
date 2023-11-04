@@ -16,7 +16,7 @@
               <p>
                 It will be my pleasure to help you bring to reality your dreams
                 for a beautiful ceremony. This can be as short, as long, as
-                quirky, as different, as formal/informal as you want it to be.
+                quirky, as different, as formal/informal as you want it to be. I only do ONE ceremony a day and my whole focus will be on you, on the day.
               </p>
             </div>
           </div>
