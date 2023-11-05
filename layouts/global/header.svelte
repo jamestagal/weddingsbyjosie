@@ -57,8 +57,12 @@
               <li>
                 <a href="about-me">About</a>
               </li>
-              <li>
-                <a href="service">Services</a>
+              <li class="mega-menu-item">
+                <a href="#" class="mega-menu-link">Services</a>
+                <ul class="mega-submenu">
+                  <li><a href="service">The Works</a></li>
+                  <li><a href="service2">Alternate</a></li>
+                </ul>
               </li>
               <li>
                 <a href="pricing">Pricing</a>
