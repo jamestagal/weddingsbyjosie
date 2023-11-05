@@ -113,7 +113,7 @@
             <h3 class="widget-title">Links</h3>
             <ul class="my-inline-list menu-footer-services">
               <li><a href="about-me">About me</a></li>
-              <li><a href="service">Services</a></li>
+              <li><a href="service">Service</a></li>
               <li><a href="pricing">Pricing</a></li>
               <li><a href="contact-me">Contact me</a></li>
             </ul>
