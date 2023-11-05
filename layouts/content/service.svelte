@@ -6,7 +6,6 @@
   import ServiceStep5 from "../components/service_step5.svelte";
   import ServiceStep6 from "../components/service_step6.svelte";
   import SerivceHeader from "../components/service_header.svelte";
-  import AlternateService from "../components/alternate_service.svelte";
   export let step1, step2, step3, step4, step5, step6;
 
   let selectedStep = "step1";
@@ -113,7 +112,6 @@
     <!-- row end -->
   </div>
 </div>
-<AlternateService />
 <style>
   .ttm-row.gallery-section {
     padding: 60px 0 0;
