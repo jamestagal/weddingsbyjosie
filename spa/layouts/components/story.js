@@ -4,12 +4,12 @@ import{SvelteComponent,append_hydration,attr,children,claim_element,claim_space,
             diverse cultural backgrounds.
             `),A=element("br"),S=element("br"),M=text(`
             Throught these experiences I have gained many insights into the importance
-            of cultural. beliefs and customs. From my own multi-cultural background,
+            of cultural, beliefs and customs. From my own multi-cultural background,
             I can empathize with difficulties that arise due to language barriers
             in adapting to a new country. `),F=element("br"),T=element("br"),z=text(`
             I understand the importance of blending the legal requirements to marry
             in Australia to traditional religious ceremonies and I am happy to be
-            a part of this and design a ceremony fit for you. I believe that with
+            a part of this and design a personal ceremony for you. I believe that with
             the skills that I have developed, I can offer you clear communication
             and at the same time I’ll be flexible and thoughtful to your personal,
             family or cultural needs.`),D=element("br"),N=element("br"),L=text(` With Marriage Equality, I am
@@ -21,12 +21,12 @@ import{SvelteComponent,append_hydration,attr,children,claim_element,claim_space,
             diverse cultural backgrounds.
             `),A=claim_element(V,"BR",{}),S=claim_element(V,"BR",{}),M=claim_text(V,`
             Throught these experiences I have gained many insights into the importance
-            of cultural. beliefs and customs. From my own multi-cultural background,
+            of cultural, beliefs and customs. From my own multi-cultural background,
             I can empathize with difficulties that arise due to language barriers
             in adapting to a new country. `),F=claim_element(V,"BR",{}),T=claim_element(V,"BR",{}),z=claim_text(V,`
             I understand the importance of blending the legal requirements to marry
             in Australia to traditional religious ceremonies and I am happy to be
-            a part of this and design a ceremony fit for you. I believe that with
+            a part of this and design a personal ceremony for you. I believe that with
             the skills that I have developed, I can offer you clear communication
             and at the same time I’ll be flexible and thoughtful to your personal,
             family or cultural needs.`),D=claim_element(V,"BR",{}),N=claim_element(V,"BR",{}),L=claim_text(V,` With Marriage Equality, I am
