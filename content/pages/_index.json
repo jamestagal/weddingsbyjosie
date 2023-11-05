@@ -101,7 +101,7 @@
 			}
 		},
 		{
-			"name": "service_overview3",
+			"name": "service_overview",
 			"fields": {
 				"title1": "Caferio, Burgers, and the Best Pizzas",
 				"title2": "in Town!",
@@ -347,7 +347,7 @@
 			}
 		},
 		{
-			"name": "contact",
+			"name": "josie",
 			"fields": {
 				"title": "Contact me",
 				"line2": "get in touch.",
