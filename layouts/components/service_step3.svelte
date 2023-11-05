@@ -49,7 +49,7 @@
                 <p class="highlight">
                   Complete the legal paperwork: Notice of Intended Marriage
                   (NOIM). This must be completed a minimum of 1 month before the
-                  ceremony.<span
+                  ceremony.<br><span
                     ><i
                       >I need to sight evidence of Identification e.g
                       passport/driver’s licence/birth certificate.
