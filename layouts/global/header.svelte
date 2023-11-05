@@ -61,7 +61,7 @@
                 <a href="#" class="mega-menu-link">Services</a>
                 <ul class="mega-submenu">
                   <li><a href="service">The Works</a></li>
-                  <li><a href="service2">Alternate</a></li>
+                  <li><a href="service2">Alternative</a></li>
                 </ul>
               </li>
               <li>
