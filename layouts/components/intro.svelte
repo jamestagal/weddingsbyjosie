@@ -16,7 +16,7 @@
               <p>
                 It will be my pleasure to help you bring to reality your dreams
                 for a beautiful ceremony. This can be as short, as long, as
-                quirky, as different, as formal/informal as you want it to be. I only do ONE ceremony a day and my whole focus will be on you, on the day.
+                quirky, as different, as formal/informal as you want it to be. I only do ONE ceremony a day so my whole focus will be on you, on the day.
               </p>
             </div>
           </div>
@@ -40,7 +40,7 @@
                   </div>
                   <div class="featured-desc">
                     <p>
-                      I am both a qualified and experienced celebrant in the
+                      I am both a qualified and experienced celebrant in
                       Canberra & NSW.
                     </p>
                   </div>
@@ -64,7 +64,7 @@
                   </div>
                   <div class="featured-desc">
                     <p>
-                      I create a beautiful and tailored ceremony to suit your
+                      I create a beautiful and personalised ceremony to suit your
                       style and wishes.
                     </p>
                   </div>

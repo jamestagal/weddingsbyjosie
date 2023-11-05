@@ -28,9 +28,9 @@
       <div class="col-lg-7 col-md-7 col-sm-12">
         <h4>5. Get You Married</h4>
         <p>
-          On the day of your marriage ceremony, I create a heatwarming and
-          presonalised celebration that beautifully merges your unique love
-          story and your cultural traditions and beliefs.
+          On the day of your marriage ceremony, I create a
+          presonalised celebration that beautifully compliments your unique love
+          story and background.
         </p>
         <div class="mt-25">
           <div
@@ -49,8 +49,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  On the day, I’ll be there early and create a romantic and calm
-                  environment so that you can enjoy the day.
+                  On the day, I’ll be there early, check that everything is in place and create a calm environment so that you can enjoy the day.
                 </p>
               </div>
             </div>

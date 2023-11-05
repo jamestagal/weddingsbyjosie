@@ -28,7 +28,7 @@
       <div class="col-lg-7 col-md-7 col-sm-12">
         <h4>4. Have a Rehearsal</h4>
         <p>
-          I attend the rehearsal and run through the procedings so everything
+          I attend the rehearsal and run through the ceremony so everything
           goes smoothly on the day. I will work with your wedding
           planner/photographer to achieve the best photos.
         </p>
@@ -49,7 +49,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  By having a rehearsal at the location helps everyone to understand their role and keeps everyone calm on the day. I work through the steps until everyone is confident with the ceremonys.
+                  By having a rehearsal at the location helps everyone to understand their role and keeps everyone calm on the day. I work through the steps until everyone is confident with the ceremony.
                 </p>
               </div>
             </div>

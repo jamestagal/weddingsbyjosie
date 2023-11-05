@@ -77,8 +77,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  Discuss your ceremony and your vision…colour/theme so that I
-                  can compliment the bridal party.
+                  Discuss your ceremony and your vision you have for it and what is important to you. (Refer to Booklet) I enjoy learning about the colour/theme so that I can compliment the bridal party.
                 </p>
               </div>
             </div>
@@ -113,7 +112,7 @@
                   I will provide you with a booklet:
                 </p>
                 <ul>
-                  <li>a sample script inlcuding the legal words</li>
+                  <li>a sample script including the legal words</li>
                   <li>the brochure “Happily Ever After”</li>
                   <li>examples of music, rituals and poems</li>
                   <li>examples of how to include family and children</li>

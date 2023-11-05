@@ -44,7 +44,7 @@
                             </div>
                             <div class="featured-content">
                                 <div class="featured-desc">
-                                    <p>You will get a beautiful, personalised and intimate ceremony like a registry style service. This is perfect for those who want to legalise their union without a traditional wedding but do it in an affordable way yet still in a meaningful ceremony.</p>
+                                    <p>You will get a beautiful, personalised and intimate ceremony. This is perfect for those who want to legalise their union in a personal, meaningful and affordable ceremony.</p>
                                 </div>
                             </div>
                         </div><!--featured-icon-box end-->
@@ -62,7 +62,12 @@
                             </div>
                             <div class="featured-content">
                                 <div class="featured-desc">
-                                    <p>BEFORE: I prepare all the legal paperwork, this paperwork must be completed a minimum of 1 month before the ceremony. This is a legal reqirement.
+                                    <p>BEFORE: I prepare all the legal paperwork, this paperwork must be completed a minimum of 1 month before the ceremony. This is a legal reqirement.<br><span
+                                        ><i
+                                          >I need to sight evidence of Identification e.g
+                                          passport/driver’s licence/birth certificate.
+                                        </i></span
+                                      >
                                         <br>AFTER: I will lodge all the paperwork with the ACT Births, Deaths and Marriages Department. Then I Inform you when the marriage has been registered and send you the link so that
                                         you can apply for the official document. </p>
                                 </div>

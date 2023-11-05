@@ -24,7 +24,7 @@
           </div>
           <div class="title-desc">
             <p>
-              This is my fully personalised ceremony. It is an "all access" service with as many points of communication as needed. It includes a rehearsal at the venue and a comprehensive resource folder for you to keep with ideas and examples for all parts of the ceremony. See below for the full list of inclusions.
+               Once booked, I am committed to your day and my time to you is unlimited. I am happy to meet with you as many times as needed and communicate via email/phone to create the perfect ceremony. I provide you with a resource folder for ideas and attend your rehearsal and complete the legal paperwork. See steps below for more information.
             </p>
           </div>
         </div>

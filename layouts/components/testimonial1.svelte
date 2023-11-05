@@ -8,8 +8,7 @@
         <!--section title-->
         <div class="section-title title-style-center_text">
           <div class="title-header">
-            <h5>Wedding Planing</h5>
-            <h2 class="title">What My Clients Say?</h2>
+            <h5>Wedding testimonials</h5>
           </div>
         </div>
         <!--section title end-->

@@ -25,9 +25,7 @@
             </div>
             <div class="title-desc">
               <p>
-                I've delivered fabulous wedding ceremony experiences over the
-                last two years and by chosing Weddings by Josie you won't be
-                disappointed.
+                My greatest joy has been getting to know my couples and their families and being privileged to be part of their special day.
               </p>
             </div>
           </div>

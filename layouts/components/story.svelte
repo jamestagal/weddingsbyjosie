@@ -48,12 +48,12 @@
             diverse cultural backgrounds.
             <br /><br />
             Throught these experiences I have gained many insights into the importance
-            of cultural. beliefs and customs. From my own multi-cultural background,
+            of cultural, beliefs and customs. From my own multi-cultural background,
             I can empathize with difficulties that arise due to language barriers
             in adapting to a new country. <br /><br />
             I understand the importance of blending the legal requirements to marry
             in Australia to traditional religious ceremonies and I am happy to be
-            a part of this and design a ceremony fit for you. I believe that with
+            a part of this and design a personal ceremony for you. I believe that with
             the skills that I have developed, I can offer you clear communication
             and at the same time I’ll be flexible and thoughtful to your personal,
             family or cultural needs.<br /><br /> With Marriage Equality, I am
