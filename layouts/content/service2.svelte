@@ -20,7 +20,7 @@
                 <!--section title-->
                 <div class="section-title">
                     <div class="title-header">
-                        <h5>Alternate Wedding Service - $ negotiable</h5>
+                        <h5>Alternative Wedding Service - $ negotiable</h5>
                         <h2 class="title">The Intimate Wedding</h2>
                     </div>
                     <div class="title-desc">

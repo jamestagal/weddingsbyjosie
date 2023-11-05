@@ -5,7 +5,7 @@
         <div class="row align-items-center">
           <div class="col-lg-12">
             <div class="page-title-heading">
-              <h2 class="title">Alternate Service</h2>
+              <h2 class="title">Alternative Service</h2>
             </div>
             <div class="heading-seperator">
               <span />
