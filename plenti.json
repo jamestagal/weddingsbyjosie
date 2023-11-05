@@ -2,7 +2,8 @@
 	"build": "public",
 	"routes": {
 		"pages": ":filename",
-		"service": "service"
+		"service": "service",
+		"service2": "service2"
 	},
 	"baseurl": "/weddingsbyjosie/",
 	"local": {
