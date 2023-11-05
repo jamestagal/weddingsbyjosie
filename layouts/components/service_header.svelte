@@ -5,7 +5,7 @@
       <div class="row align-items-center">
         <div class="col-lg-12">
           <div class="page-title-heading">
-            <h2 class="title">My Services</h2>
+            <h2 class="title">The Works</h2>
           </div>
           <div class="heading-seperator">
             <span />
@@ -15,7 +15,7 @@
               <a title="Homepage" href=".">Home</a>
             </span>
             <span class="ttm-bread-sep">&gt;</span>
-            <span> Services</span>
+            <span> The Works</span>
           </div>
         </div>
       </div>
