@@ -90,7 +90,9 @@
             </li>
           </ul>
         </aside>
+        <div class="mt-10 text-center btn-center">
         <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark" href="pricing">See Pricing</a>
+        </div>
       </div>
       <div class="col-lg-8 content-area">
         {#if "step1" === selectedStep}
@@ -137,4 +139,14 @@
       padding-top: 25px;
     }
   }
+  @media (max-width: 991px)  {
+   .btn-center {
+    margin: 10px;
+    position: absolute;
+    top: 100%;
+    left: 45%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+}
 </style>

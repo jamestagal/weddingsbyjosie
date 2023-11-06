@@ -31,12 +31,6 @@
             </div>
           </div>
         </div>
-        <div class="mt-10 btn-center">
-          <a
-            class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
-            href="service">My Services</a
-          >
-        </div>
       </div>
       <div class="col-lg-6 col-sm-12">
         <div class="mt-0 res-991-mt-60">
@@ -65,7 +59,13 @@
                 meet me, before you make your decision.</em
               ></small
             >
-          </p>
+          </p><br>
+          <div class="mt-10 btn-center">
+            <a
+              class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
+              href="service">My Services</a
+            >
+          </div>
         </div>
       </div>
     </div>
@@ -76,7 +76,7 @@
 
 <style>
   .btn-center {
-    margin: 0;
+    margin: 10px;
     position: absolute;
     top: 100%;
     left: 45%;
