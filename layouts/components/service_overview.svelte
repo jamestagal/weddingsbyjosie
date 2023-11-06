@@ -10,8 +10,7 @@
             <h2 class="title">My Service</h2>
           </div>
           <div class="title-desc">
-            <p>
-            </p>
+            <p />
           </div>
         </div>
         <!--section title end-->
@@ -37,7 +36,8 @@
             </div>
             <div class="featured-desc">
               <p>
-                We have an inital chat about my service with no obligation to book me.
+                We have an inital chat about my service with no obligation to
+                book me.
               </p>
             </div>
           </div>
@@ -154,7 +154,8 @@
             </div>
             <div class="featured-desc">
               <p>
-                I lodge the paperwork to in the state or territory where the ceremony is performed.
+                I lodge the paperwork to in the state or territory where the
+                ceremony is performed.
               </p>
             </div>
           </div>
@@ -163,7 +164,7 @@
       </div>
     </div>
     <!--row end-->
-    <div class="mt-20">
+    <div class="mt-45 pt-20 text-center btn-center">
       <a
         class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
         href="service">Read More</a
@@ -171,4 +172,26 @@
     </div>
   </div>
 </section>
+
 <!--services-section end-->
+
+<style>
+  .btn-center {
+    margin: 10px;
+    position: relative;
+    top: 100%;
+    left: 45%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .ttm-row.services-section_1 {
+    padding: 50px 0 25px;
+  }
+
+  @media (max-width: 991px) {
+    .res-991-mb-25 {
+      margin-bottom: 0 !important;
+    }
+  }
+</style>
