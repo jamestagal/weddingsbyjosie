@@ -57,7 +57,7 @@
               <a href="."
                 ><img
                   class="img-fluid"
-                  src="media/moments/wedding_moment02.webp"
+                  src="media/moments/wedding_moment07.webp"
                   alt="wedding couple"
                 /></a
               >
@@ -68,7 +68,7 @@
                 class="ttm_prettyphoto ttm_image"
                 title="Business Card Design"
                 data-rel="prettyPhoto"
-                href="media/moments/wedding_moment02.webp"
+                href="media/moments/wedding_moment07.webp"
               >
                 <i class="ti ti-search" />
               </a>
