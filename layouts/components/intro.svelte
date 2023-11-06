@@ -2,7 +2,7 @@
 <section class="ttm-row introduction-section clearfix">
   <div class="container">
     <div
-      class="pt-45 pb-45 pl-30 pr-30 res-991-pl-15 res-991-pr-15 tes-991-pb-0 res-991-ml-15 res-991-mr-15 box-shadow"
+      class="pt-45 pb-30 pl-30 pr-30 res-991-pl-15 res-991-pr-15 tes-991-pb-0 res-991-ml-15 res-991-mr-15 box-shadow"
     >
       <div class="row align-items-center">
         <div class="col-lg-6 col-sm-12">
@@ -72,9 +72,9 @@
               </div>
             </div>
           </div>
-          <div class="mt-20">
+          <div class="mt-35 text-center btn-center">
             <a
-              class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-25"
+              class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark res-991-mb-10"
               href="about-me">About Me</a
             >
           </div>
@@ -95,3 +95,13 @@
   </div>
 </section>
 <!--introduction-section end-->
+<style>
+  .btn-center {
+    margin-top: 20px;
+    position: relative;
+    top: 100%;
+    left: 45%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+</style>
