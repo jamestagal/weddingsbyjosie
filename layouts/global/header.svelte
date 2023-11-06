@@ -146,7 +146,7 @@
 <!--header end-->
 <style>
   .title {
-    font-size: 35px;
+    font-size: 33px;
     font-weight: 800;
   }
 
