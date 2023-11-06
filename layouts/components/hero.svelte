@@ -26,8 +26,8 @@
   }
 
   .title {
-    font-size: 85px;
-    font-weight: 900;
+    font-size: 76px;
+    font-weight: 800;
   }
   @media only screen and (max-width: 991px) {
     .hero {
