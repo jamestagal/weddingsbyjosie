@@ -7,8 +7,42 @@
 </script>
 
 <!--header start-->
-<header id="masthead" class="header ttm-header-style-01" data-header="">
-  <div id="site-header-menu" class="site-header-menu ttm-bgcolor-darkgrey">
+<header id="masthead" class="header ttm-header-style-02" data-header="">
+  <!--top_bar-->
+  <div class="top_bar ttm-bgcolor-darkgrey ttm-textcolor-white clearfix">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div
+            class="d-flex flex-row align-items-center justify-content-center"
+          >
+            <div class="top_bar_contact_item">
+              <div class="top_bar_icon"><i class="fa fa-phone" /></div>
+              +61 406 379 530
+            </div>
+            <div class="top_bar_contact_item">
+              <div class="top_bar_icon"><i class="fa fa-envelope-o" /></div>
+              <a href="mailto:weddingsbyjosiecbr@gmail.com">weddingsbyjosiecbr@gmail.com</a>
+            </div>
+            <div class="top_bar_contact_item ml-auto">
+              <div class="top_bar_icon"><i class="ti ti-time" /></div>
+              Work Hour: Mon – Sun: 9.00am to 8.00pm
+            </div>
+            <div class="top_bar_contact_item top_bar_social">
+              <ul class="social-icons sub-menu">
+                <li><a href="https://www.facebook.com/p/Weddings-By-Josie-100064046983818/"target="_blank" ><i class="fa fa-facebook"/></a></li>
+                <li><a href="https://www.instagram.com/weddingsbyjosiecbr/" target="_blank" ><i class="fa fa-instagram"/></a></li>
+                <li><a href="." target="_blank" ><i class="fa fa-linkedin"/></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--top_barend-->
+  <!--site-header-menu-->
+  <div id="site-header-menu" class="site-header-menu ttm-bgcolor-white">
     <div class="site-header-menu-inner ttm-stickable-header">
       <div class="container">
         <!--site-navigation -->
@@ -112,7 +146,14 @@
 <!--header end-->
 <style>
   .title {
-    font-size: 40px;
-    font-weight: 900;
+    font-size: 35px;
+    font-weight: 800;
+  }
+
+  @media (max-width: 991px) {
+    h4 {
+      font-size: 24px;
+      line-height: 35px;
+    }
   }
 </style>
