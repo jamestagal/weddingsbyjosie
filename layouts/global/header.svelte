@@ -91,11 +91,11 @@
               <li>
                 <a href="about-me">About</a>
               </li>
-              <li class="mega-menu-item">
-                <a href="service" class="mega-menu-link">Services</a>
+              <li class="mega-menu-item active {navActive ? ' show' : ''}" on:click={toggleMenu}>
+                <a href="#" class="mega-menu-link">Services</a>
                 <ul class="mega-submenu">
-                  <li><a href="service">The Works</a></li>
-                  <li><a href="service2">Alternative</a></li>
+                  <li class="{navActive ? ' hide' : ''}" on:click={toggleMenu}><a href="service">The Works</a></li>
+                  <li class="{navActive ? ' hide' : ''}" on:click={toggleMenu}><a href="service2">Alternative</a></li>
                 </ul>
               </li>
               <li>
