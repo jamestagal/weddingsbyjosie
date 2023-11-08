@@ -31,7 +31,7 @@
                   <div
                     class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
                   >
-                    <i class="ti-bookmark-alt" />
+                  <i class="fa fa-certificate" />
                   </div>
                 </div>
                 <div class="featured-content">
@@ -55,7 +55,7 @@
                   <div
                     class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
                   >
-                    <i class="ti ti-medall" />
+                    <i class="flaticon flaticon-wedding-arch-1" />
                   </div>
                 </div>
                 <div class="featured-content">

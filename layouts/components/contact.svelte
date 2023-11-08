@@ -51,7 +51,7 @@
                     <div
                       class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-sm"
                     >
-                      <i class="ti ti-files" />
+                      <i class="fa fa-phone" />
                     </div>
                   </div>
                   <div class="featured-content">
@@ -72,7 +72,7 @@
                     <div
                       class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-sm"
                     >
-                      <i class="ti ti-briefcase" />
+                      <i class="ti ti-time" />
                     </div>
                   </div>
                   <div class="featured-content">

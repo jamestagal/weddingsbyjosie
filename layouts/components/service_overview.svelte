@@ -27,7 +27,7 @@
               class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
             >
               <i class="ttm-num ti-info" />
-              <i class="flaticon flaticon-camera-1" />
+              <i class="fa fa-handshake-o" />
             </div>
           </div>
           <div class="featured-content">
@@ -52,7 +52,7 @@
               class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
             >
               <i class="ttm-num ti-info" />
-              <i class="flaticon flaticon-wedding-rings" />
+              <i class="ti ti-calendar" />
             </div>
           </div>
           <div class="featured-content">
@@ -74,12 +74,12 @@
               class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
             >
               <i class="ttm-num ti-info" />
-              <i class="flaticon flaticon-couple" />
+              <i class="ti ti-pencil-alt" />
             </div>
           </div>
           <div class="featured-content">
             <div class="featured-title">
-              <h5>Meet up</h5>
+              <h5>Complete Legals</h5>
             </div>
             <div class="featured-desc">
               <p>
@@ -98,7 +98,7 @@
               class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
             >
               <i class="ttm-num ti-info" />
-              <i class="flaticon flaticon-wine" />
+              <i class="flaticon flaticon-couple" />
             </div>
           </div>
           <div class="featured-content">
@@ -145,7 +145,7 @@
               class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
             >
               <i class="ttm-num ti-info" />
-              <i class="flaticon flaticon-romantic-dinner" />
+              <i class="flaticon flaticon-wine" />
             </div>
           </div>
           <div class="featured-content">

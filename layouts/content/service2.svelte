@@ -54,7 +54,7 @@
                         <div class="featured-icon-box icon-align-before-title style6">
                             <div class="featured-icon">
                                 <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-sm ttm-icon_element-style-rounded">
-                                    <i class="flaticon flaticon-wedding-cake"></i>
+                                    <i class="ti ti-pencil-alt" />
                                 </div>
                             </div>
                             <div class="featured-title">

@@ -40,7 +40,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-romantic-dinner" />
+                <i class="flaticon flaticon-planning" />
               </div>
             </div>
             <div class="featured-content">
@@ -63,7 +63,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-wine" />
+                <i class="ti ti-microphone-alt" />
               </div>
             </div>
             <div class="featured-content">
@@ -84,7 +84,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-wine" />
+                <i class="flaticon flaticon-bride" />
               </div>
             </div>
             <div class="featured-content">
@@ -105,7 +105,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-wine" />
+              <i class="fa fa-certificate" />
               </div>
             </div>
             <div class="featured-content">

@@ -38,7 +38,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-romantic-dinner" />
+              <i class="ti ti-pencil-alt" />
               </div>
             </div>
             <div class="featured-content">

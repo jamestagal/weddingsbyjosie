@@ -26,7 +26,7 @@
             </div> -->
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
-        <h4>3. Meet Up</h4>
+        <h4>3. Complete the Legals</h4>
         <p>
           We meet up to commence the legal paperwork and disucss your vision for your ceremony. A deposit is required to lock in the date. The following is what is covered at this meeting:
         </p>
@@ -38,7 +38,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-romantic-dinner" />
+              <i class="ti ti-pencil-alt" />
               </div>
             </div>
             <div class="featured-content">
@@ -68,7 +68,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-couple" />
+                <i class="ti ti-comments" />
               </div>
             </div>
             <div class="featured-content">
@@ -100,7 +100,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-wine" />
+                <i class="ti ti-book" />
               </div>
             </div>
             <div class="featured-content">
@@ -131,7 +131,7 @@
               <div
                 class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
               >
-                <i class="flaticon flaticon-wine" />
+                <i class="ti ti-pencil" />
               </div>
             </div>
             <div class="featured-content">

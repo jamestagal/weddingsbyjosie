@@ -39,7 +39,7 @@
                 <div
                   class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
                 >
-                  <i class="flaticon flaticon-wedding-card" />
+                <i class="flaticon flaticon-wedding-arch-1" />
                 </div>
               </div>
               <div class="featured-content">
@@ -63,7 +63,7 @@
                 <div
                   class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
                 >
-                  <i class="flaticon flaticon-balloons" />
+                <i class="ti ti-comments" />
                 </div>
               </div>
               <div class="featured-content">
@@ -90,7 +90,7 @@
                 <div
                   class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
                 >
-                  <i class="flaticon flaticon-wedding-invitation" />
+                <i class="flaticon flaticon-couple" />
                 </div>
               </div>
               <div class="featured-content">
@@ -113,7 +113,7 @@
                 <div
                   class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg"
                 >
-                  <i class="flaticon flaticon-wedding-invitation" />
+                <i class="ti ti-pencil-alt" />
                 </div>
               </div>
               <div class="featured-content">
