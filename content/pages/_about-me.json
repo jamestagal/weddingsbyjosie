@@ -10,12 +10,16 @@
         {
             "name": "story",
             "fields": {
-                "title": "ABOUT OUR JOURNEY",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur, aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique. Et amet magni facilis vero corporis quos. exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!",
+                "title": "I'm sociable…flexible & thoughtful.",
+                "description": "I am a sociable lady who loves to be with people, to talk, to entertain and to listen. I have a teaching background, I have taught in high schools and more recently I taught English to adults from diverse cultural backgrounds. <br /><br /> Throught these experiences I have gained many insights into the importance of cultural, beliefs and customs. From my own multi-cultural background, I can empathize with difficulties that arise due to language barriers in adapting to a new country. <br /><br /> I understand the importance of blending the legal requirements to marry in Australia to traditional religious ceremonies and I am happy to be a part of this and design a personal ceremony for you. I believe that with the skills that I have developed, I can offer you clear communication and at the same time I’ll be flexible and thoughtful to your personal, family or cultural needs.<br /><br /> With Marriage Equality, I am happy to perform marriages for same-sex couples and also Naming Day and Renewal of Vows Ceremonies.<br /><br /> <small><em>I offer you a no obligation meeting, simply a chat for you to meet me, before you make your decision.</em></small>",
                 "image": {
-                    "url": "media/about-page.jpeg",
-                    "altText": "Girl reading a book listening to music"
-                }
+                    "src": "media/about/wedding_about01.jpeg",
+                    "altText": "Josie Allocca, ACT base marriage celebrant"
+                },
+                "button": {
+					"title": "My Services",
+					"url": "service"
+				}
             }
         },
         {
