@@ -91,7 +91,7 @@
               <li>
                 <a href="about-me">About</a>
               </li>
-              <li class="mega-menu-item active {navActive ? ' show' : ''}" on:click={toggleMenu}>
+              <li class="mega-menu-item {navActive ? ' show' : ''}" on:click={toggleMenu}>
                 <a href="#" class="mega-menu-link">Services</a>
                 <ul class="mega-submenu">
                   <li class="{navActive ? ' hide' : ''}" on:click={toggleMenu}><a href="service">The Works</a></li>
