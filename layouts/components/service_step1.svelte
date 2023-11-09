@@ -29,7 +29,7 @@
         <h4>1. Meet Face-To-Face</h4>
         <p>
           A face to face chat over a coffee, at a convenient time & location.
-          This chat is simply a chat in a friendly environment to see if we
+          This is simply a chat in a friendly environment to see if we
           ‘gel’ together. It’s important that you feel comfortable with me,
           before you make your decision. There is <strong>
             no obligation
