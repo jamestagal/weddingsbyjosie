@@ -1,14 +1,14 @@
 import{SvelteComponent,append_hydration,attr,children,claim_element,claim_space,claim_text,detach,element,init,insert_hydration,noop,safe_not_equal,set_data,space,src_url_equal,text}from"../../web_modules/svelte/internal/index.mjs";function create_fragment(e){let r,f,i,b,a,v,_,q,h,d,u,c,m,s,E,C,K,l,n,p,x,U,t,W,$,P,A,S,R,M,F,T,z,D,N,L,j,y,H,I,B,V,g,o,w=e[2].title+"",O,k;return{c(){r=element("section"),f=element("div"),i=element("div"),b=element("div"),a=element("div"),v=element("div"),_=element("div"),q=space(),h=element("div"),d=element("div"),u=element("div"),c=element("div"),m=element("div"),s=element("img"),K=space(),l=element("div"),n=element("div"),p=element("h4"),x=text(e[0]),U=space(),t=element("p"),W=text(`I am a sociable lady who loves to be with people, to talk, to
             entertain and to listen. I have a teaching background, I have taught
-            in high schools and more recently I taught English to adults from
+            in high schools and more recently I have taught English to adults from
             diverse cultural backgrounds.
             `),$=element("br"),P=element("br"),A=text(`
-            Throught these experiences I have gained many insights into the importance
-            of cultural, beliefs and customs. From my own multi-cultural background,
+            Through these experiences I have gained many insights into the importance
+            of culture, beliefs and customs. From my own multi-cultural background,
             I can empathize with difficulties that arise due to language barriers
             in adapting to a new country. `),S=element("br"),R=element("br"),M=text(`
             I understand the importance of blending the legal requirements to marry
-            in Australia to traditional religious ceremonies and I am happy to be
+            in Australia with traditional religious ceremonies and I am happy to be
             a part of this and design a personal ceremony for you. I believe that with
             the skills that I have developed, I can offer you clear communication
             and at the same time I’ll be flexible and thoughtful to your personal,
@@ -17,15 +17,15 @@ import{SvelteComponent,append_hydration,attr,children,claim_element,claim_space,
             and Renewal of Vows Ceremonies.`),D=element("br"),N=element("br"),L=space(),j=element("small"),y=element("em"),H=text(`I offer you a no obligation meeting, simply a chat for you to
                 meet me, before you make your decision.`),I=space(),B=element("br"),V=space(),g=element("div"),o=element("a"),O=text(w),this.h()},l(C){r=claim_element(C,"SECTION",{class:!0});var E,k,Y,G,X,Q,Z,J,de=children(r),ae,ne,ee,te,oe,ie,re,ce,le,se;f=claim_element(de,"DIV",{class:!0}),Q=children(f),i=claim_element(Q,"DIV",{class:!0}),G=children(i),b=claim_element(G,"DIV",{class:!0}),ae=children(b),a=claim_element(ae,"DIV",{class:!0}),Y=children(a),v=claim_element(Y,"DIV",{class:!0}),ne=children(v),_=claim_element(ne,"DIV",{class:!0}),children(_).forEach(detach),ne.forEach(detach),q=claim_space(Y),h=claim_element(Y,"DIV",{class:!0}),Z=children(h),d=claim_element(Z,"DIV",{class:!0}),J=children(d),u=claim_element(J,"DIV",{class:!0}),ee=children(u),c=claim_element(ee,"DIV",{class:!0}),te=children(c),m=claim_element(te,"DIV",{class:!0}),oe=children(m),s=claim_element(oe,"IMG",{class:!0,src:!0,alt:!0}),oe.forEach(detach),te.forEach(detach),ee.forEach(detach),J.forEach(detach),Z.forEach(detach),Y.forEach(detach),ae.forEach(detach),K=claim_space(G),l=claim_element(G,"DIV",{class:!0}),X=children(l),n=claim_element(X,"DIV",{class:!0}),k=children(n),p=claim_element(k,"H4",{class:!0}),ie=children(p),x=claim_text(ie,e[0]),ie.forEach(detach),U=claim_space(k),t=claim_element(k,"P",{}),E=children(t),W=claim_text(E,`I am a sociable lady who loves to be with people, to talk, to
             entertain and to listen. I have a teaching background, I have taught
-            in high schools and more recently I taught English to adults from
+            in high schools and more recently I have taught English to adults from
             diverse cultural backgrounds.
             `),$=claim_element(E,"BR",{}),P=claim_element(E,"BR",{}),A=claim_text(E,`
-            Throught these experiences I have gained many insights into the importance
-            of cultural, beliefs and customs. From my own multi-cultural background,
+            Through these experiences I have gained many insights into the importance
+            of culture, beliefs and customs. From my own multi-cultural background,
             I can empathize with difficulties that arise due to language barriers
             in adapting to a new country. `),S=claim_element(E,"BR",{}),R=claim_element(E,"BR",{}),M=claim_text(E,`
             I understand the importance of blending the legal requirements to marry
-            in Australia to traditional religious ceremonies and I am happy to be
+            in Australia with traditional religious ceremonies and I am happy to be
             a part of this and design a personal ceremony for you. I believe that with
             the skills that I have developed, I can offer you clear communication
             and at the same time I’ll be flexible and thoughtful to your personal,
