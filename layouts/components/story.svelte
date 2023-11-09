@@ -41,15 +41,15 @@
           <p>
             I am a sociable lady who loves to be with people, to talk, to
             entertain and to listen. I have a teaching background, I have taught
-            in high schools and more recently I taught English to adults from
+            in high schools and more recently I have taught English to adults from
             diverse cultural backgrounds.
             <br /><br />
-            Throught these experiences I have gained many insights into the importance
-            of cultural, beliefs and customs. From my own multi-cultural background,
+            Through these experiences I have gained many insights into the importance
+            of culture, beliefs and customs. From my own multi-cultural background,
             I can empathize with difficulties that arise due to language barriers
             in adapting to a new country. <br /><br />
             I understand the importance of blending the legal requirements to marry
-            in Australia to traditional religious ceremonies and I am happy to be
+            in Australia with traditional religious ceremonies and I am happy to be
             a part of this and design a personal ceremony for you. I believe that with
             the skills that I have developed, I can offer you clear communication
             and at the same time I’ll be flexible and thoughtful to your personal,
