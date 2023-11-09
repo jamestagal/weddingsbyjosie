@@ -44,7 +44,7 @@
                             </div>
                             <div class="featured-content">
                                 <div class="featured-desc">
-                                    <p>You will get a beautiful, personalised and intimate ceremony. This is perfect for those who want to legalise their union in a personal, meaningful and affordable ceremony.</p>
+                                    <p>You will get a beautiful, personalised and intimate ceremony. This is perfect for those who want to legalise their union in a personal, meaningful and affordable ceremony. This ceremony will make your marriage legal.</p>
                                 </div>
                             </div>
                         </div><!--featured-icon-box end-->
@@ -62,7 +62,7 @@
                             </div>
                             <div class="featured-content">
                                 <div class="featured-desc">
-                                    <p>BEFORE: I prepare all the legal paperwork, this paperwork must be completed a minimum of 1 month before the ceremony. This is a legal reqirement.<br><span
+                                    <p>BEFORE: I prepare all the legal paperwork which must be completed a minimum of 1 month before the ceremony. This is a legal requirement.<br><span
                                         ><i
                                           >I need to sight evidence of Identification e.g
                                           passport/driver’s licence/birth certificate.

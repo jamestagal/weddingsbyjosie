@@ -28,7 +28,7 @@
       <div class="col-lg-7 col-md-7 col-sm-12">
         <h4>3. Complete the Legals</h4>
         <p>
-          We meet up to commence the legal paperwork and disucss your vision for your ceremony. A deposit is required to lock in the date. The following is what is covered at this meeting:
+          We meet up to commence the legal paperwork and discuss your vision for your ceremony. A deposit is required to lock in the date. The following is what is covered at this meeting:
         </p>
         <div class="mt-25">
           <div

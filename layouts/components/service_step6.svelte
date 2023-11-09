@@ -47,8 +47,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  I lodge your paperwork with Births, Deaths and Marriages Dept.
-                  in the state or territory where the ceremony was conducted.
+                  I'll lodge the paperwork with the Births, Deaths and Marriages Dept of the state or territory in which the ceremony was conducted.  This makes your wedding legal.
                 </p>
               </div>
             </div>

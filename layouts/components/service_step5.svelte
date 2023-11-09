@@ -29,7 +29,7 @@
         <h4>5. Get You Married</h4>
         <p>
           On the day of your marriage ceremony, I create a
-          presonalised celebration that beautifully compliments your unique love
+          personalised celebration that beautifully compliments your unique love
           story and background.
         </p>
         <div class="mt-25">

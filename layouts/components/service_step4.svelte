@@ -49,7 +49,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  By having a rehearsal at the location helps everyone to understand their role and keeps everyone calm on the day. I work through the steps until everyone is confident with the ceremony.
+                  By having a rehearsal helps everyone to understand their role and keeps everyone calm on the day. I work through the steps until everyone is confident with the ceremony.
                 </p>
               </div>
             </div>

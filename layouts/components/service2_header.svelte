@@ -15,7 +15,7 @@
                 <a title="Homepage" href=".">Home</a>
               </span>
               <span class="ttm-bread-sep">&gt;</span>
-              <span> Alternate</span>
+              <span> Alternative</span>
             </div>
           </div>
         </div>
