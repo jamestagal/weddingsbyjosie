@@ -24,7 +24,12 @@
           </div>
           <div class="title-desc">
             <p>
-               Once booked, I am committed to your day and my time to you is unlimited. I am happy to meet with you as many times as needed and communicate via email/phone to create the perfect ceremony. I provide you with a resource folder for ideas and attend your rehearsal and complete the legal paperwork. See steps below for more information.
+              Once booked, I am committed to your day and my time to you is
+              unlimited. I am happy to meet with you as many times as needed and
+              communicate via email/phone to create the perfect ceremony. I
+              provide you with a resource folder for ideas and attend your
+              rehearsal and complete the legal paperwork. See steps below for
+              more information.
             </p>
           </div>
         </div>
@@ -90,9 +95,6 @@
             </li>
           </ul>
         </aside>
-        <div class="mt-10 text-center btn-center">
-        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-dark" href="pricing">See Pricing</a>
-        </div>
       </div>
       <div class="col-lg-8 content-area">
         {#if "step1" === selectedStep}
@@ -114,6 +116,21 @@
     <!-- row end -->
   </div>
 </div>
+<div class="row">
+  <div class="col-lg-12">
+    <div class="res-991-mt-10 text-center">
+      <h5 class="mb-40 ttm-location-place mb-0">
+        <strong>
+          Looking for an more intimate service?</strong
+        >
+        <a href="service2" class="ttm-textcolor-skincolor">
+          <u>See my Alternative Service</u></a
+        >
+      </h5>
+    </div>
+  </div>
+</div>
+<!--row end-->
 <style>
   .ttm-row.gallery-section {
     padding: 60px 0 0;
@@ -139,14 +156,14 @@
       padding-top: 25px;
     }
   }
-  @media (max-width: 991px)  {
-   .btn-center {
-    margin: 10px;
-    position: absolute;
-    top: 100%;
-    left: 45%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+  @media (max-width: 991px) {
+    .btn-center {
+      margin: 10px;
+      position: absolute;
+      top: 100%;
+      left: 45%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
   }
-}
 </style>
