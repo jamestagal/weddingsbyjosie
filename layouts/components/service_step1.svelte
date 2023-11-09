@@ -48,7 +48,7 @@
             </div>
             <div class="featured-content">
               <div class="featured-title">
-                <h5>A causal meeting</h5>
+                <h5>A casual meeting</h5>
               </div>
               <div class="featured-desc">
                 <p>
