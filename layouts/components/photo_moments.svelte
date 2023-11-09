@@ -22,19 +22,17 @@
       <div class="col-lg-6 col-md-6 col-sm-6">
         <!--featured-imagebox-->
         <div class="featured-imagebox featured-imagebox-portfolio style3">
-          <div class="ttm-box-view-overlay">
+          <div>
             <!--featured-thumbnail-->
-            <div class="featured-thumbnail">
-              <a href="."
-                ><img
+            <div>
+            <img
                   class="img-fluid"
                   src="media/moments/wedding_moment01.webp"
                   alt="wedding couple"
-                /></a
-              >
+                />
             </div>
             <!--featured-thumbnail end-->
-            <div class="ttm-media-link">
+<!--             <div class="ttm-media-link">
               <a
                 class="ttm_prettyphoto ttm_image"
                 title="Business Card Design"
@@ -43,7 +41,7 @@
               >
                 <i class="ti ti-search" />
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!--featured-imagebox end-->
@@ -51,19 +49,17 @@
       <div class="col-lg-3 col-md-3 col-sm-3">
         <!--featured-imagebox-->
         <div class="featured-imagebox featured-imagebox-portfolio style3">
-          <div class="ttm-box-view-overlay">
+          <div>
             <!--featured-thumbnail-->
-            <div class="featured-thumbnail">
-              <a href="."
-                ><img
+            <div>
+              <img
                   class="img-fluid"
                   src="media/moments/wedding_moment07.webp"
                   alt="wedding couple"
-                /></a
-              >
+                />
             </div>
             <!--featured-thumbnail end-->
-            <div class="ttm-media-link">
+ <!--            <div class="ttm-media-link">
               <a
                 class="ttm_prettyphoto ttm_image"
                 title="Business Card Design"
@@ -72,7 +68,7 @@
               >
                 <i class="ti ti-search" />
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!--featured-imagebox end-->
@@ -80,19 +76,17 @@
       <div class="col-lg-3 col-md-3 col-sm-3">
         <!--featured-imagebox-->
         <div class="featured-imagebox featured-imagebox-portfolio style3">
-          <div class="ttm-box-view-overlay">
+          <div>
             <!--featured-thumbnail-->
-            <div class="featured-thumbnail">
-              <a href="."
-                ><img
+            <div>
+              <img
                   class="img-fluid"
                   src="media/moments/wedding_moment03.webp"
                   alt="wedding couple"
-                /></a
-              >
+                />
             </div>
             <!--featured-thumbnail end-->
-            <div class="ttm-media-link">
+<!--             <div class="ttm-media-link">
               <a
                 class="ttm_prettyphoto ttm_image"
                 title="Business Card Design"
@@ -101,7 +95,7 @@
               >
                 <i class="ti ti-search" />
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!--featured-imagebox-event end-->
@@ -109,19 +103,17 @@
       <div class="col-lg-3 col-md-3 col-sm-3">
         <!--featured-imagebox-->
         <div class="featured-imagebox featured-imagebox-portfolio style3">
-          <div class="ttm-box-view-overlay">
+          <div>
             <!--featured-thumbnail-->
-            <div class="featured-thumbnail">
-              <a href="."
-                ><img
+            <div>
+              <img
                   class="img-fluid"
                   src="media/moments/wedding_moment04.webp"
                   alt="wedding couple"
-                /></a
-              >
+                />
             </div>
             <!--featured-thumbnail end-->
-            <div class="ttm-media-link">
+<!--             <div class="ttm-media-link">
               <a
                 class="ttm_prettyphoto ttm_image"
                 title="Business Card Design"
@@ -130,7 +122,7 @@
               >
                 <i class="ti ti-search" />
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!--featured-imagebox end-->
@@ -138,19 +130,17 @@
       <div class="col-lg-3 col-md-3 col-sm-3">
         <!--featured-imagebox-->
         <div class="featured-imagebox featured-imagebox-portfolio style3">
-          <div class="ttm-box-view-overlay">
+          <div>
             <!--featured-thumbnail-->
-            <div class="featured-thumbnail">
-              <a href="."
-                ><img
+            <div>
+             <img
                   class="img-fluid"
                   src="media/moments/wedding_moment05.webp"
                   alt="wedding couple"
-                /></a
-              >
+                />
             </div>
             <!--featured-thumbnail end-->
-            <div class="ttm-media-link">
+ <!--            <div class="ttm-media-link">
               <a
                 class="ttm_prettyphoto ttm_image"
                 title="Business Card Design"
@@ -159,7 +149,7 @@
               >
                 <i class="ti ti-search" />
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!--featured-imagebox end-->
@@ -167,19 +157,17 @@
       <div class="col-lg-6 col-md-6 col-sm-6">
         <!--featured-imagebox-->
         <div class="featured-imagebox featured-imagebox-portfolio style3">
-          <div class="ttm-box-view-overlay">
+          <div>
             <!--featured-thumbnail-->
-            <div class="featured-thumbnail">
-              <a href="."
-                ><img
+            <div>
+              <img
                   class="img-fluid"
                   src="media/moments/wedding_moment06.webp"
                   alt="wedding couple"
-                /></a
-              >
+                />
             </div>
             <!--featured-thumbnail end-->
-            <div class="ttm-media-link">
+<!--             <div class="ttm-media-link">
               <a
                 class="ttm_prettyphoto ttm_image"
                 title="Business Card Design"
@@ -188,7 +176,7 @@
               >
                 <i class="ti ti-search" />
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!--featured-imagebox end-->
