@@ -26,7 +26,7 @@
             </div>
             <div class="top_bar_contact_item ml-auto">
               <div class="top_bar_icon"><i class="ti ti-time" /></div>
-              Work Hour: Mon – Sun: 9.00am to 8.00pm
+              Work Hours: Mon – Sun: 9.00am to 8.00pm
             </div>
             <div class="top_bar_contact_item top_bar_social">
               <ul class="social-icons sub-menu">
