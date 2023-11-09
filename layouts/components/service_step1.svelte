@@ -52,7 +52,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  We have an inital chat about my service with not obligations.
+                  We have an inital chat about my service with no obligations.
                 </p>
               </div>
             </div>
@@ -75,8 +75,7 @@
               </div>
               <div class="featured-desc">
                 <p>
-                  At this meeting we'll go over my service & discuss what you
-                  would like from the ceremony.
+                  At this chat, I will explain what I will do for you.
                 </p>
               </div>
             </div>
