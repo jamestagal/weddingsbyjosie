@@ -20,23 +20,23 @@
   <base href={env.baseurl} />
   <script type="module" src="spa/core/main.js"></script>
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/tether.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.easing.js"></script>
-  <script src="js/jquery-waypoints.js"></script>
-  <script src="js/jquery-validate.js"></script>
-  <script src="js/jquery.prettyPhoto.js"></script>
-  <script src="js/slick.js"></script>
-  <script src="js/slick.min.js"></script>
-  <script src="js/numinate.min.js"></script>
-  <script src="js/imagesloaded.min.js"></script>
-  <script src="js/jquery-isotope.js"></script>
-  <script src="js/price_range_script.js"></script>
-  <script src="js/main.js"></script>
-  <script src="revolution/js/slider.js"></script>
-  <script src="revolution/js/revolution.tools.min.js"></script>
-  <script src="revolution/js/rs6.min.js"></script>
+  <script src="../scripts/js/jquery.min.js"></script>
+  <script src="../scripts/js/tether.min.js"></script>
+  <script src="../scripts/js/bootstrap.min.js"></script>
+  <script src="../scripts/js/jquery.easing.js"></script>
+  <script src="../scripts/js/jquery-waypoints.js"></script>
+  <script src="../scripts/js/jquery-validate.js"></script>
+  <script src="../scripts/js/jquery.prettyPhoto.js"></script>
+  <script src="../scripts/js/slick.js"></script>
+  <script src="../scripts/js/slick.min.js"></script>
+  <script src="../scripts/js/numinate.min.js"></script>
+  <script src="../scripts/js/imagesloaded.min.js"></script>
+  <script src="../scripts/js/jquery-isotope.js"></script>
+  <script src="../scripts/js/price_range_script.js"></script>
+  <script src="../scripts/js/main.js"></script>
+  <script src="../scripts/revolution/js/slider.js"></script>
+  <script src="../scripts/revolution/js/revolution.tools.min.js"></script>
+  <script src="../scripts/revolution/js/rs6.min.js"></script>
   <link
     rel="stylesheet"
     id="rs-plugin-settings-css"
