@@ -347,6 +347,13 @@
 			}
 		},
 		{
+			"name": "quote",
+			"fields": {
+				"titleHeader": "Client Reviews",
+				"title": "What Our Client Say"
+				}
+		},
+		{
 			"name": "josie",
 			"fields": {
 				"title": "Contact me",
